@@ -1,0 +1,11 @@
+AddressID,Person,OrdinalNumber,IsDefaultFaxNumber,FaxCountry,FaxNumber,FaxNumberExtension,InternationalFaxNumber,AddressCommunicationRemarkText
+er-2913585,er-2913585,585,false,585,FaxNumber-2913585,on-2913585,InternationalFaxNumber-2913585,AddressCommunicationRemarkText-2913585
+er-2913586,er-2913586,586,true,586,FaxNumber-2913586,on-2913586,InternationalFaxNumber-2913586,AddressCommunicationRemarkText-2913586
+er-2913587,er-2913587,587,false,587,FaxNumber-2913587,on-2913587,InternationalFaxNumber-2913587,AddressCommunicationRemarkText-2913587
+er-2913588,er-2913588,588,true,588,FaxNumber-2913588,on-2913588,InternationalFaxNumber-2913588,AddressCommunicationRemarkText-2913588
+er-2913589,er-2913589,589,false,589,FaxNumber-2913589,on-2913589,InternationalFaxNumber-2913589,AddressCommunicationRemarkText-2913589
+er-2913590,er-2913590,590,true,590,FaxNumber-2913590,on-2913590,InternationalFaxNumber-2913590,AddressCommunicationRemarkText-2913590
+er-2913591,er-2913591,591,false,591,FaxNumber-2913591,on-2913591,InternationalFaxNumber-2913591,AddressCommunicationRemarkText-2913591
+er-2913592,er-2913592,592,true,592,FaxNumber-2913592,on-2913592,InternationalFaxNumber-2913592,AddressCommunicationRemarkText-2913592
+er-2913593,er-2913593,593,false,593,FaxNumber-2913593,on-2913593,InternationalFaxNumber-2913593,AddressCommunicationRemarkText-2913593
+er-2913594,er-2913594,594,true,594,FaxNumber-2913594,on-2913594,InternationalFaxNumber-2913594,AddressCommunicationRemarkText-2913594

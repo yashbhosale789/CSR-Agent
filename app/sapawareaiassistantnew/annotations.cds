@@ -1,0 +1,1 @@
+using AllServices as service from '../../srv/cat-service';

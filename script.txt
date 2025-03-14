@@ -1,0 +1,42 @@
+Hi, I'm looking for my sales orders.
+
+I can help you with that. Would you like to see your recent sales orders?
+
+Yes, please show me sales order 0500000001.
+
+Here are the details for Sales Order 0500000001:
+Sales Order: 0500000001
+Order Type: OR
+Customer: 1000000
+Creation Date: 2024-01-15
+Net Amount: 5000 EUR
+
+Can I see the items in this sales order?
+
+Here are the items for Sales Order 0500000001:
+Item: 10
+Material: MAT001
+Quantity: 100
+Net Amount: 3000
+Currency: EUR
+
+Item: 20
+Material: MAT002
+Quantity: 50
+Net Amount: 2000
+Currency: EUR
+
+Thank you. Can you also show me all sales orders for customer 1000000?
+
+Here are the recent Sales Orders for Customer 1000000:
+Sales Order: 0500000001
+Creation Date: 2024-01-15
+Order Type: OR
+Net Amount: 5000
+Currency: EUR
+
+Sales Order: 0500000002
+Creation Date: 2024-01-20
+Order Type: OR
+Net Amount: 7500
+Currency: EUR

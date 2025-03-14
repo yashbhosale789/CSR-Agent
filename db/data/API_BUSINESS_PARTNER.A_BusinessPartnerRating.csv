@@ -1,0 +1,11 @@
+BusinessPartner,BusinessPartnerRatingProcedure,BPRatingValidityEndDate,BusinessPartnerRatingGrade,BusinessPartnerRatingTrend,BPRatingValidityStartDate,BPRatingCreationDate,BusinessPartnerRatingComment,BusinessPartnerRatingIsAllowed,BPRatingIsValidOnKeyDate,BusinessPartnerRatingKeyDate,BusinessPartnerRatingIsExpired,BPRatingLongComment
+g-20617689,g-20617689,2017-03-22,e-20617689,89,2004-03-30,2015-03-21,BusinessPartnerRatingComment-20617689,false,false,2018-01-22,false,BPRatingLongComment-20617689
+g-20617690,g-20617690,2002-10-24,e-20617690,90,2017-06-04,2001-04-23,BusinessPartnerRatingComment-20617690,true,true,2000-05-07,true,BPRatingLongComment-20617690
+g-20617691,g-20617691,2016-12-01,e-20617691,91,2010-02-11,2001-09-04,BusinessPartnerRatingComment-20617691,false,false,2018-05-16,false,BPRatingLongComment-20617691
+g-20617692,g-20617692,2023-09-10,e-20617692,92,2019-02-20,2004-10-31,BusinessPartnerRatingComment-20617692,true,true,2022-04-28,true,BPRatingLongComment-20617692
+g-20617693,g-20617693,2009-10-07,e-20617693,93,2001-08-07,2008-08-11,BusinessPartnerRatingComment-20617693,false,false,2014-12-17,false,BPRatingLongComment-20617693
+g-20617694,g-20617694,2020-01-22,e-20617694,94,2013-11-09,2022-10-22,BusinessPartnerRatingComment-20617694,true,true,2012-07-07,true,BPRatingLongComment-20617694
+g-20617695,g-20617695,2020-06-27,e-20617695,95,2007-07-27,2009-11-26,BusinessPartnerRatingComment-20617695,false,false,2017-11-27,false,BPRatingLongComment-20617695
+g-20617696,g-20617696,2012-06-27,e-20617696,96,2005-01-11,2023-03-03,BusinessPartnerRatingComment-20617696,true,true,2014-06-09,true,BPRatingLongComment-20617696
+g-20617697,g-20617697,2017-09-19,e-20617697,97,2001-03-29,2014-06-01,BusinessPartnerRatingComment-20617697,false,false,2006-05-16,false,BPRatingLongComment-20617697
+g-20617698,g-20617698,2013-10-01,e-20617698,98,2007-06-25,2014-02-01,BusinessPartnerRatingComment-20617698,true,true,2017-07-26,true,BPRatingLongComment-20617698

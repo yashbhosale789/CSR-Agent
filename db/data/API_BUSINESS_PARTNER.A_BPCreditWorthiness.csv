@@ -1,0 +1,11 @@
+BusinessPartner,BusPartCreditStanding,BPCreditStandingStatus,CreditRatingAgency,BPCreditStandingComment,BPCreditStandingDate,BPCreditStandingRating,BPLegalProceedingStatus,BPLglProceedingInitiationDate,BusinessPartnerIsUnderOath,BusinessPartnerOathDate,BusinessPartnerIsBankrupt,BusinessPartnerBankruptcyDate,BPForeclosureIsInitiated,BPForeclosureDate,BPCrdtWrthnssAccessChkIsActive
+s-12971995,5,5,1995,BPCreditStandingComment-12971995,2014-12-08,995,95,2000-05-28,false,2016-12-29,false,2009-12-29,false,2007-01-07,5
+s-12971996,6,6,1996,BPCreditStandingComment-12971996,2002-12-24,996,96,2006-11-13,true,2006-11-20,true,2009-08-26,true,2016-04-26,6
+s-12971997,7,7,1997,BPCreditStandingComment-12971997,2021-08-08,997,97,2013-12-20,false,2016-08-02,false,2000-03-04,false,2013-07-06,7
+s-12971998,8,8,1998,BPCreditStandingComment-12971998,2006-04-22,998,98,2021-05-14,true,2004-04-30,true,2018-10-29,true,2012-08-20,8
+s-12971999,9,9,1999,BPCreditStandingComment-12971999,2012-12-24,999,99,2008-08-22,false,2022-09-12,false,2021-01-09,false,2009-10-17,9
+s-12972000,0,0,2000,BPCreditStandingComment-12972000,2017-07-21,000,00,2023-04-29,true,2003-12-11,true,2017-01-11,true,2001-09-04,0
+s-12972001,1,1,2001,BPCreditStandingComment-12972001,2019-01-23,001,01,2012-02-16,false,2009-01-25,false,2001-04-27,false,2015-08-21,1
+s-12972002,2,2,2002,BPCreditStandingComment-12972002,2005-08-29,002,02,2011-11-15,true,2015-02-12,true,2011-02-12,true,2020-08-14,2
+s-12972003,3,3,2003,BPCreditStandingComment-12972003,2007-03-12,003,03,2010-01-01,false,2012-06-09,false,2003-08-19,false,2001-11-15,3
+s-12972004,4,4,2004,BPCreditStandingComment-12972004,2002-03-17,004,04,2022-02-28,true,2009-03-04,true,2020-07-21,true,2017-03-19,4

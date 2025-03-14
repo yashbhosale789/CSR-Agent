@@ -1,0 +1,11 @@
+AddressID,Person,OrdinalNumber,DestinationLocationCountry,IsDefaultPhoneNumber,PhoneNumber,PhoneNumberExtension,InternationalPhoneNumber,PhoneNumberType,AddressCommunicationRemarkText
+er-6945595,er-6945595,595,595,false,PhoneNumber-6945595,on-6945595,ternationalPhoneNumber-6945595,5,AddressCommunicationRemarkText-6945595
+er-6945596,er-6945596,596,596,true,PhoneNumber-6945596,on-6945596,ternationalPhoneNumber-6945596,6,AddressCommunicationRemarkText-6945596
+er-6945597,er-6945597,597,597,false,PhoneNumber-6945597,on-6945597,ternationalPhoneNumber-6945597,7,AddressCommunicationRemarkText-6945597
+er-6945598,er-6945598,598,598,true,PhoneNumber-6945598,on-6945598,ternationalPhoneNumber-6945598,8,AddressCommunicationRemarkText-6945598
+er-6945599,er-6945599,599,599,false,PhoneNumber-6945599,on-6945599,ternationalPhoneNumber-6945599,9,AddressCommunicationRemarkText-6945599
+er-6945600,er-6945600,600,600,true,PhoneNumber-6945600,on-6945600,ternationalPhoneNumber-6945600,0,AddressCommunicationRemarkText-6945600
+er-6945601,er-6945601,601,601,false,PhoneNumber-6945601,on-6945601,ternationalPhoneNumber-6945601,1,AddressCommunicationRemarkText-6945601
+er-6945602,er-6945602,602,602,true,PhoneNumber-6945602,on-6945602,ternationalPhoneNumber-6945602,2,AddressCommunicationRemarkText-6945602
+er-6945603,er-6945603,603,603,false,PhoneNumber-6945603,on-6945603,ternationalPhoneNumber-6945603,3,AddressCommunicationRemarkText-6945603
+er-6945604,er-6945604,604,604,true,PhoneNumber-6945604,on-6945604,ternationalPhoneNumber-6945604,4,AddressCommunicationRemarkText-6945604

@@ -1,0 +1,11 @@
+BusinessPartner,AddressID,Person,OrdinalNumber,InternationalPhoneNumber,IsDefaultPhoneNumber,MobilePhoneCountry,MobilePhoneNumber,PhoneNumberExtension,PhoneNumberType,ValidityStartDate,ValidityEndDate
+le-9625857,le-9625857,le-9625857,857,ternationalPhoneNumber-9625857,false,857,MobilePhoneNumber-9625857,on-9625857,7,2017-05-01,2013-07-21
+le-9625858,le-9625858,le-9625858,858,ternationalPhoneNumber-9625858,true,858,MobilePhoneNumber-9625858,on-9625858,8,2006-12-12,2011-02-17
+le-9625859,le-9625859,le-9625859,859,ternationalPhoneNumber-9625859,false,859,MobilePhoneNumber-9625859,on-9625859,9,2020-08-02,2009-12-12
+le-9625860,le-9625860,le-9625860,860,ternationalPhoneNumber-9625860,true,860,MobilePhoneNumber-9625860,on-9625860,0,2011-10-21,2023-11-24
+le-9625861,le-9625861,le-9625861,861,ternationalPhoneNumber-9625861,false,861,MobilePhoneNumber-9625861,on-9625861,1,2023-01-27,2018-01-19
+le-9625862,le-9625862,le-9625862,862,ternationalPhoneNumber-9625862,true,862,MobilePhoneNumber-9625862,on-9625862,2,2010-06-02,2000-11-28
+le-9625863,le-9625863,le-9625863,863,ternationalPhoneNumber-9625863,false,863,MobilePhoneNumber-9625863,on-9625863,3,2000-10-16,2017-07-27
+le-9625864,le-9625864,le-9625864,864,ternationalPhoneNumber-9625864,true,864,MobilePhoneNumber-9625864,on-9625864,4,2023-11-12,2018-08-21
+le-9625865,le-9625865,le-9625865,865,ternationalPhoneNumber-9625865,false,865,MobilePhoneNumber-9625865,on-9625865,5,2006-06-15,2000-05-10
+le-9625866,le-9625866,le-9625866,866,ternationalPhoneNumber-9625866,true,866,MobilePhoneNumber-9625866,on-9625866,6,2005-12-03,2022-03-02

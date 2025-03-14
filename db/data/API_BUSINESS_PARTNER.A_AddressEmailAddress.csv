@@ -1,0 +1,11 @@
+AddressID,Person,OrdinalNumber,IsDefaultEmailAddress,EmailAddress,SearchEmailAddress,AddressCommunicationRemarkText
+s-22399510,s-22399510,510,true,EmailAddress-22399510,mailAddress-22399510,AddressCommunicationRemarkText-22399510
+s-22399511,s-22399511,511,false,EmailAddress-22399511,mailAddress-22399511,AddressCommunicationRemarkText-22399511
+s-22399512,s-22399512,512,true,EmailAddress-22399512,mailAddress-22399512,AddressCommunicationRemarkText-22399512
+s-22399513,s-22399513,513,false,EmailAddress-22399513,mailAddress-22399513,AddressCommunicationRemarkText-22399513
+s-22399514,s-22399514,514,true,EmailAddress-22399514,mailAddress-22399514,AddressCommunicationRemarkText-22399514
+s-22399515,s-22399515,515,false,EmailAddress-22399515,mailAddress-22399515,AddressCommunicationRemarkText-22399515
+s-22399516,s-22399516,516,true,EmailAddress-22399516,mailAddress-22399516,AddressCommunicationRemarkText-22399516
+s-22399517,s-22399517,517,false,EmailAddress-22399517,mailAddress-22399517,AddressCommunicationRemarkText-22399517
+s-22399518,s-22399518,518,true,EmailAddress-22399518,mailAddress-22399518,AddressCommunicationRemarkText-22399518
+s-22399519,s-22399519,519,false,EmailAddress-22399519,mailAddress-22399519,AddressCommunicationRemarkText-22399519

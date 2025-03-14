@@ -1,0 +1,11 @@
+AddressID,Person,OrdinalNumber,ValidityStartDate,IsDefaultURLAddress,SearchURLAddress,AddressCommunicationRemarkText,URLFieldLength,WebsiteURL
+RL-6122983,RL-6122983,983,2004-04-18,false,SearchURLAddress-6122983,AddressCommunicationRemarkText-6122983,85,WebsiteURL-6122983
+RL-6122984,RL-6122984,984,2012-06-03,true,SearchURLAddress-6122984,AddressCommunicationRemarkText-6122984,3,WebsiteURL-6122984
+RL-6122985,RL-6122985,985,2023-03-13,false,SearchURLAddress-6122985,AddressCommunicationRemarkText-6122985,78,WebsiteURL-6122985
+RL-6122986,RL-6122986,986,2016-02-15,true,SearchURLAddress-6122986,AddressCommunicationRemarkText-6122986,19,WebsiteURL-6122986
+RL-6122987,RL-6122987,987,2014-08-07,false,SearchURLAddress-6122987,AddressCommunicationRemarkText-6122987,7,WebsiteURL-6122987
+RL-6122988,RL-6122988,988,2010-08-18,true,SearchURLAddress-6122988,AddressCommunicationRemarkText-6122988,83,WebsiteURL-6122988
+RL-6122989,RL-6122989,989,2000-12-05,false,SearchURLAddress-6122989,AddressCommunicationRemarkText-6122989,58,WebsiteURL-6122989
+RL-6122990,RL-6122990,990,2004-03-09,true,SearchURLAddress-6122990,AddressCommunicationRemarkText-6122990,79,WebsiteURL-6122990
+RL-6122991,RL-6122991,991,2005-05-22,false,SearchURLAddress-6122991,AddressCommunicationRemarkText-6122991,18,WebsiteURL-6122991
+RL-6122992,RL-6122992,992,2000-05-21,true,SearchURLAddress-6122992,AddressCommunicationRemarkText-6122992,44,WebsiteURL-6122992

@@ -1,0 +1,11 @@
+BusinessPartner,AddressID,Person,OrdinalNumber,FaxCountry,FaxAreaCodeSubscriberNumber,FaxNumberExtension,InternationalFaxNumber,IsDefaultFaxNumber,ValidityEndDate,ValidityStartDate
+x-12684017,x-12684017,x-12684017,017,017,aCodeSubscriberNumber-12684017,n-12684017,nternationalFaxNumber-12684017,false,2020-11-19,2003-08-11
+x-12684018,x-12684018,x-12684018,018,018,aCodeSubscriberNumber-12684018,n-12684018,nternationalFaxNumber-12684018,true,2010-06-07,2003-03-25
+x-12684019,x-12684019,x-12684019,019,019,aCodeSubscriberNumber-12684019,n-12684019,nternationalFaxNumber-12684019,false,2023-04-25,2010-09-22
+x-12684020,x-12684020,x-12684020,020,020,aCodeSubscriberNumber-12684020,n-12684020,nternationalFaxNumber-12684020,true,2005-04-24,2023-07-09
+x-12684021,x-12684021,x-12684021,021,021,aCodeSubscriberNumber-12684021,n-12684021,nternationalFaxNumber-12684021,false,2000-08-03,2003-05-09
+x-12684022,x-12684022,x-12684022,022,022,aCodeSubscriberNumber-12684022,n-12684022,nternationalFaxNumber-12684022,true,2012-09-15,2003-04-25
+x-12684023,x-12684023,x-12684023,023,023,aCodeSubscriberNumber-12684023,n-12684023,nternationalFaxNumber-12684023,false,2014-06-12,2003-08-10
+x-12684024,x-12684024,x-12684024,024,024,aCodeSubscriberNumber-12684024,n-12684024,nternationalFaxNumber-12684024,true,2022-03-06,2002-01-20
+x-12684025,x-12684025,x-12684025,025,025,aCodeSubscriberNumber-12684025,n-12684025,nternationalFaxNumber-12684025,false,2013-08-04,2016-08-23
+x-12684026,x-12684026,x-12684026,026,026,aCodeSubscriberNumber-12684026,n-12684026,nternationalFaxNumber-12684026,true,2023-04-18,2008-02-28
